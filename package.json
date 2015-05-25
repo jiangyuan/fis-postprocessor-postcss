@@ -1,0 +1,25 @@
+{
+  "name": "fis-postprocessor-postcss",
+  "version": "0.0.1",
+  "description": "fis postcss",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiangyuan/fis-postprocessor-postcss.git"
+  },
+  "keywords": [
+    "fis", "postcss", "cssgrace", "autoprefixer", "cssnext"
+  ],
+  "author": "jero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiangyuan/fis-postprocessor-postcss/issues"
+  },
+  "homepage": "https://github.com/jiangyuan/fis-postprocessor-postcss",
+  "dependencies": {
+    "autoprefixer": "^5.1.1",
+    "cssgrace": "^2.0.2",
+    "cssnext": "^1.5.1",
+    "postcss": "^4.1.11"
+  }
+}
