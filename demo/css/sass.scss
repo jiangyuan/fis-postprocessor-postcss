@@ -1,0 +1,21 @@
+$color: #fff;
+
+@mixin bala {
+    font-size: 14px;
+}
+
+
+body {
+    color: $color;
+
+    @include bala;
+}
+
+
+div {
+    /* autoprefix */
+    background: linear-gradient(#fff, #000);
+
+
+
+}

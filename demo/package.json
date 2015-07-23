@@ -1,0 +1,7 @@
+{
+  "name": "fis-postprocessor-postcss-demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "postcss-border": "^0.1.0"
+  }
+}

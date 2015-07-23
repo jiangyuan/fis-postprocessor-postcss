@@ -1,0 +1,9 @@
+body {
+    /* autoprefix */
+    background: linear-gradient(#fff, #000);
+}
+
+
+.hello {
+    border: 1px 0 solid #000;
+}
