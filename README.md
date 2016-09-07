@@ -1,7 +1,7 @@
 fis-postprocessor-postcss
 =============
 
-__fis 请使用 (fis3-postprocessor-postcss)[https://github.com/jiangyuan/fis3-postprocessor-postcss]__ 。
+__fis 请使用 [fis3-postprocessor-postcss](https://github.com/jiangyuan/fis3-postprocessor-postcss)__ 。
 
 fis 的 [postcss](https://github.com/postcss/postcss) 插件。
 内置 [cssnext](http://cssnext.io/) 和 [autoprefixer](https://github.com/postcss/autoprefixer) 。
